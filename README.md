@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Git, Java, and Python**. 
 - 💞️ I’m looking to collaborate on open-source projects. 
 - 📫 Email me: gguity@fandm.edu
-- 💻 Connect with me on [LinkedIn.]([url](https://www.linkedin.com/in/gyana-guity/))
+- 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/gyana-guity/).
 
 <!---
 gguity/gguity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
